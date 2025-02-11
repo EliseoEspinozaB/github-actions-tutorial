@@ -1,0 +1,16 @@
+{
+    "name": "node-ci-example",
+    "version": "1.0.0",
+    "description": "Ejemplo de CI con Node.js en GitHub Actions",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "jest --coverage"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^29.0.0"
+    },
+    "author": "Desarrollador",
+    "license": "ISC"
+  }

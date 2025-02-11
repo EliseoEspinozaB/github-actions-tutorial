@@ -14,3 +14,4 @@ jobs:
         run: |
           echo "Plataforma: $PLATAFORMA"
           echo "Region: $REGION"
+          
